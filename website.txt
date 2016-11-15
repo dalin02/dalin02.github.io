@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<head>
+
+ <title>Dalin Mitchell</title>
+
+<style>
+
+  body {
+
+   text-align: center;
+
+  background: url(https://tse1.mm.bing.net/th?id=OIP.M0e2168fadc34fd73a1a3f34ca80b9321o0&w=161&h=110&c=8&rs=1&qlt=90&pid=3.1&rm=2);
+
+  background-size: cover;
+
+ background-position: center;
+
+      color: black;
+
+ font-family: helvetica;
+
+  }p {font-size: 22px; }input { border: 0;padding: 10px;font-size: 18px; }
+
+
+  </style>
+
+</head>
+
+<body>
+
+<img src=https://tse4.mm.bing.net/th?id=OIP.Mfa0d5e4ad0d6f873433002535ffe4ee9o0&pid=15.1 
+
+
+ <p>Hello i'm Dalin,</p>
+
+
+ 
+
+</body>
